@@ -1,0 +1,5 @@
+# System call traces:
+
+```sh
+strace -w --summary-only ./hello
+```
